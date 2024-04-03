@@ -8,7 +8,7 @@ Além disso deve conter uma tela de detalhes de cada produto.
 
 # Requisitos:
 
-Dados simulados: Simulação de dados através da biblioteca Json Server além de Serve da Vercel para imagens
+Dados simulados: Simulação de dados através da biblioteca Json Server além de serve para as imagens
 Responsividade: A aplicação deve ser totalmente responsiva para diferentes telas
 Filtro de busca: Implementação de filtros por nome, cor e tamanho.
 Tela de detalhes: Ao clicar em um produto, o usuário deve ser levado a uma tela de detalhes com mais informçãoes do produto.
