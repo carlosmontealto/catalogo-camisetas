@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camiseta Gola V",
+      "description": "Camiseta em gola v 100% algodão",
+      "image_url": [
+        "http://localhost:9000/products/golav-1.webp",
+        "http://localhost:9000/products/golav-2.webp",
+        "http://localhost:9000/products/golav-3.webp"
+      ],
+      "price": 100.0,
+      "size": ["P", "M", "G", "GG"],
+      "color": ["Preto", "Branco", "Cinza"]
+    },
+    {
+      "id": "2",
+      "name": "Camiseta Estampada Floral",
+      "description": "Camiseta estampada com padrão floral em 100% algodão.",
+      "image_url": [
+        "http://localhost:9000/products/floral-1.webp",
+        "http://localhost:9000/products/floral-2.webp"
+      ],
+      "price": 120.0,
+      "size": ["G", "GG", "XGG"],
+      "color": ["Azul", "Preto"]
+    },
+    {
+      "id": "3",
+      "name": "Camiseta Listrada Clássica",
+      "description": "Camiseta listrada clássica em 100% algodão.",
+      "image_url": [
+        "http://localhost:9000/products/listrada-1.webp",
+        "http://localhost:9000/products/listrada-2.webp",
+        "http://localhost:9000/products/listrada-3.webp"
+      ],
+      "price": 110.0,
+      "size": ["P", "M", "G"],
+      "color": ["Verde", "Azul", "Preto"]
+    },
+    {
+      "id": "4",
+      "name": "Camiseta Básica Lisa",
+      "description": "Camiseta básica lisa em 100% algodão.",
+      "image_url": [
+        "http://localhost:9000/products/basica-1.webp",
+        "http://localhost:9000/products/basica-2.webp",
+        "http://localhost:9000/products/basica-3.webp"
+      ],
+      "price": 90.0,
+      "size": ["P", "M", "GG", "XGG"],
+      "color": ["Preto", "Branco", "Cinza"]
+    },
+    {
+      "id": "5",
+      "name": "Camiseta Xadrez Vintage",
+      "description": "Camiseta xadrez retrô em 100% algodão.",
+      "image_url": [
+        "http://localhost:9000/products/xadrez-1.webp",
+        "http://localhost:9000/products/xadrez-2.webp",
+        "http://localhost:9000/products/xadrez-3.webp"
+      ],
+      "price": 95.0,
+      "size": ["P", "M", "G", "GG"],
+      "color": ["Vermelho", "Azul", "Amarelo"]
+    },
+    {
+      "id": "6",
+      "name": "Camiseta Tie-Dye",
+      "description": "Camiseta com estampa tie-dye em 100% algodão.",
+      "image_url": [
+        "http://localhost:9000/products/tiedye-1.webp",
+        "http://localhost:9000/products/tiedye-2.webp",
+        "http://localhost:9000/products/tiedye-3.webp"
+      ],
+      "price": 105.0,
+      "size": ["P", "M", "G", "GG"],
+      "color": ["Azul", "Rosa"]
+    },
+    {
+      "id": "7",
+      "name": "Camiseta Estampada Geométrica",
+      "description": "Camiseta com padrão geométrico em 100% algodão.",
+      "image_url": [
+        "http://localhost:9000/products/geometrica-1.webp",
+        "http://localhost:9000/products/geometrica-2.webp"
+      ],
+      "price": 98.0,
+      "size": ["P", "GG"],
+      "color": ["Preto", "Branco"]
+    },
+    {
+      "id": "8",
+      "name": "Camiseta Manga Longa",
+      "description": "Camiseta de manga longa em 100% algodão.",
+      "image_url": [
+        "http://localhost:9000/products/mangalonga-1.webp",
+        "http://localhost:9000/products/mangalonga-2.webp",
+        "http://localhost:9000/products/mangalonga-3.webp"
+      ],
+      "price": 115.0,
+      "size": ["G", "GG"],
+      "color": ["Cinza", "Azul", "Verde"]
+    },
+    {
+      "id": "9",
+      "name": "Camiseta Estampada Animal",
+      "description": "Camiseta com estampa de animais em 100% algodão.",
+      "image_url": [
+        "http://localhost:9000/products/animal-1.webp",
+        "http://localhost:9000/products/animal-2.webp",
+        "http://localhost:9000/products/animal-3.webp"
+      ],
+      "price": 110.0,
+      "size": ["P", "M", "G", "GG", "XGG"],
+      "color": ["Marrom", "Verde", "Laranja"]
+    },
+    {
+      "id": "10",
+      "name": "Camiseta Esportiva Dry-Fit",
+      "description": "Camiseta esportiva de tecido Dry-Fit.",
+      "image_url": [
+        "http://localhost:9000/products/dryfit-1.webp",
+        "http://localhost:9000/products/dryfit-2.webp",
+        "http://localhost:9000/products/dryfit-3.webp"
+      ],
+      "price": 125.0,
+      "size": ["P", "M", "GG"],
+      "color": ["Azul", "Preto", "Vermelho"]
+    }
+  ]
+}
